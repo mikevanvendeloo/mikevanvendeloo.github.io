@@ -9,7 +9,7 @@
 title: Log4Mike 
 email: blog@vanvendeloo.net 
 description: > # this means to ignore newlines until "baseurl:"
-Mike sharing his experiences in software development
+  Mike sharing his experiences in software development
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mike.vanvendeloo.net" # the base hostname & protocol for your site
 twitter_username: mikevanvendeloo 
