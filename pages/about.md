@@ -24,7 +24,6 @@ tags:
 <div class="post-author text-center">
             <img src="{{ site.urlimg }}{{ site.owner.avatar }}" alt="{{ site.owner.name }}'s photo" itemprop="image" class="post-avatar img-circle img-responsive"/>
 <span class="social-icons" style="padding-top: 10px; padding-bottom: 1px;">
-<a href="https://twitter.com/{{ site.owner.twitter }}" class="social-icons" title="Twitter feed"><i class="iconm iconm-twitter"></i></a>
 <a href="{{ site.owner.linkedin }}" class="social-icons" title="LinkedIn profile"><i class="iconm iconm-linkedin2"></i></a>
 </span>
 </div>
