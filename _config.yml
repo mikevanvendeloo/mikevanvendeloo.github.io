@@ -10,7 +10,7 @@ title:               Log4Mike
 tagline:             Blogging about software development
 description:         Mike's place to share experiences in software development
 url: http://mike.vanvendeloo.net
-baseurl: "/"
+baseurl: ""
 urlimg: http://mike.vanvendeloo.net/images/
 markdown: kramdown
 paginate: 5
