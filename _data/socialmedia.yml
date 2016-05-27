@@ -1,0 +1,24 @@
+- name: Twitter
+  url: https://twitter.com/mikevanvendeloo
+  class: fa fa-twitter-square
+  title: "Follow me @mikevanvendeloo"
+
+- name: Google Plus
+  url: https://plus.google.com/+mikevanvendeloo
+  class: fa fa-google-plus-square
+  title: "Follow me +mikevanvendeloo"
+
+- name: GitHub
+  url: https://github.com/mikevanvendeloo
+  class: fa fa-github-square
+  title: Code repository
+
+- name: Contact
+  url: "/contact/"
+  class: fa fa-envelope-square
+  title: "Reach Me"
+
+- name: RSS
+  url: "/feed.xml"
+  class: fa fa-rss-square
+  title: "Subscribe to RSS"
