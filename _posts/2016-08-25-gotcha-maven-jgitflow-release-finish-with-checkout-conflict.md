@@ -11,11 +11,10 @@ gistembed: false
 noindex: false
 hide_printmsg: false
 sitemap: true
-summaryfeed: false
+summaryfeed: true
 title: 'Gotcha maven jgitflow:release-finish with checkout conflict'
-description: ''
-category: ''
-tags: ''
+tags:
+  - maven
 ---
 ## Gotcha maven jgitflow:release-finish with checkout conflict
 Every once in a while you encounter an error message that makes no sense and puts you on the wrong track to find a solution. This time it occurred in a Jenkins Maven job that released my project before deploying to production. 
