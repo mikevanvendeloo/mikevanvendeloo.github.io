@@ -1,0 +1,6 @@
+[submodule "themes/toha"]
+	path = themes/toha
+	url = https://github.com/hugo-toha/toha.git
+[submodule "themes/themes/hugo-scroll"]
+	path = themes/themes/hugo-scroll
+	url = https://github.com/janraasch/hugo-scroll.git
